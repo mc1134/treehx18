@@ -1,0 +1,13 @@
+
+This document has all of our ideas for treehacks.
+
+
+
+Navisens:
+
+ - make 3D layout + 3D sensing?
+ - improve 2D acceleration sensing to be more accurate???
+
+mlab:
+
+ - use mongoDB on backend to set up server to store data in DB
